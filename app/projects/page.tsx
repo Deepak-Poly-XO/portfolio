@@ -65,7 +65,7 @@ export default function Projects(){
         <div className="flex flex-col justify-center">
         <div className="holistic flex flex-col  bg-[#1A1A1D] p-[2em] mt-[2em] w-[75%] h-[40em] self-center rounded-xl">
           <div className="flex justify-center rounded-xl overflow-hidden ">
-            <Link href="/dietitian" className="transition-transform duration-300 hover:scale-105 rounded-xl w-[80%]"><img  src="/holistic.png" alt="Holistic" /></Link>
+            <Link href="/dietitian" className="transition-transform duration-300 hover:scale-105 rounded-xl w-[80%]"><img  src="/Holistic.png" alt="Holistic" /></Link>
           </div>
           <div className="flex justify-between w-[100%]">
             <a href="/dietitian" className="cursor-pointer">
